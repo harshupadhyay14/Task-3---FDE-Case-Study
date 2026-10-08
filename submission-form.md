@@ -89,6 +89,6 @@ Claude also wrote the synthetic prototype (`prototype/`). Its first version misl
 
 ### Github Repo URL
 
-https://github.com/harshupadhyay14/Task-3---Forward-Deployed-Engineer-Case-Study.git
+https://github.com/harshupadhyay14/Task-3---FDE-Case-Study.git
 
 Prototype (synthetic data only): `tile_shade_advisor_prototype.ipynb` plus `sim.py`. It tests one claim from section 4.3 and 5 of the case study: a calibration chart, a local sensitivity solve and one confirmation tile converge to tolerance in about one round, and convergence breaks down when same-file print repeatability is poor (the week-2 stop line). It is a simulation of an assumed device, not evidence about real tiles.
